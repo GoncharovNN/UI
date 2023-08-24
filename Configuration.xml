@@ -229,6 +229,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Role>Роль1</Role>
 			<Catalog>Инструмент</Catalog>
 			<Catalog>Брокер</Catalog>
 			<Document>ВводСредств</Document>
@@ -236,6 +237,7 @@
 			<Enum>ВидИнструмента</Enum>
 			<Enum>ВидОрдера</Enum>
 			<Report>ОтчетПоСчету</Report>
+			<Report>ОтчетПоПортфелям</Report>
 			<InformationRegister>Планирование</InformationRegister>
 			<InformationRegister>ЖурналСделок</InformationRegister>
 			<InformationRegister>Портфель</InformationRegister>
