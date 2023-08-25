@@ -70,8 +70,8 @@
 		<Metadata name="Report.ОтчетПоПортфелям.Template.ОсновнаяСхемаКомпоновкиДанных" id="bb777c49-fddb-4625-819a-125e629faaff" configVersion="9792f01dc8e42e429576f9f63a2e42ef00000000"/>
 		<Metadata name="Report.ОтчетПоПортфелям.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="bb777c49-fddb-4625-819a-125e629faaff.0" configVersion="129d8dd02c4cf9489992dc5abda7f01900000000"/>
 		<Metadata name="Report.ОтчетПоСчету" id="18bcc50e-26d0-4b82-b390-bbe66155a0b6" configVersion="61924cc57280334781aa07df70aff2f900000000"/>
-		<Metadata name="Report.ОтчетПоСчету.Template.ОсновнаяСхемаКомпоновкиДанных" id="b8cf486a-d388-49c0-b745-6eff7dce9309" configVersion="0cad682fd7ed6641909999d71f12dad100000000"/>
-		<Metadata name="Report.ОтчетПоСчету.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="b8cf486a-d388-49c0-b745-6eff7dce9309.0" configVersion="76f7e925fb4ae746bfcd245a538b56b700000000"/>
+		<Metadata name="Report.ОтчетПоСчету.Template.ОсновнаяСхемаКомпоновкиДанных" id="b8cf486a-d388-49c0-b745-6eff7dce9309" configVersion="dcbc080a4aeb7243ac769c57a493f70a00000000"/>
+		<Metadata name="Report.ОтчетПоСчету.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="b8cf486a-d388-49c0-b745-6eff7dce9309.0" configVersion="bcf8cd94d814b544a746c5e25091abdc00000000"/>
 		<Metadata name="Role.Роль1" id="300196ff-44aa-4aab-9484-8a938bad3417" configVersion="cad21abc27176d4ba95658e90a059acb00000000"/>
 		<Metadata name="Role.Роль1.Rights" id="300196ff-44aa-4aab-9484-8a938bad3417.0" configVersion="30f0a834a634ce4580684fe148ae1edc00000000"/>
 	</ConfigVersions>
